@@ -11,7 +11,6 @@
 
 <h1>Tecnologias que eu uso no meu dia:</h1>
 
-</br>
 <div style="display: inline_block"></br>
 <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
