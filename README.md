@@ -9,7 +9,7 @@
 ##
 
 <div style="display: inline_block"></br>
-### Tecnologias que eu uso no meu dia
+<h3>Tecnologias que eu uso no meu dia</h3>
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
