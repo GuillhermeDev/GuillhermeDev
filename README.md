@@ -3,7 +3,9 @@
 ![GuillhermeDev GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillhermeDev&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+GuillhermeDev&layout=compact)](https://github.com/
+GuillhermeDev/github-readme-stats)
 
 
 <div style="display: inline_block"></br>
