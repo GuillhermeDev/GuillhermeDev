@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Luiz Guilherme 👋
-### Apaixonado por tecnologia, estudante de Front-end
+### Apaixonado por tecnologia.
+### Meus objetivos são: Me tornar um programador Front-End e facilitar a vida das pessoas por meio da programação.
 
 
 <div>
