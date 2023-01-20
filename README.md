@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luiz Guilherme 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuillhermeDev&show_icons=true&theme=radical"
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuillhermeDev&show_icons=true&theme=radical"/>
 
 ### Tecnologias que eu uso no meu dia
 
